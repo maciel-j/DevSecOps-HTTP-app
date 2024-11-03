@@ -1,0 +1,11 @@
+    1  git clone https://github.com/maciel-j/DevSecOps-HTTP-app.git
+    2  cd DevSecOps-HTTP-app/
+    3  pip install --user -r requirements.txt
+    4  flask run --reload
+    5  history >> history.txt
+    -------------------------------------------------------------------------
+    1  cd /home/project/DevSecOps-HTTP-app/frontend/
+    2  npm i
+    3  npm start
+    4  cd ..
+    5  history >> history.txt
